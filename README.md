@@ -6,13 +6,13 @@ A simple and interactive **QR Code Generator** built with **HTML, CSS, jQuery**,
 ## 📸 Screenshots
 
 ### 🔹 Before Generating QR Code:
-![Before Generating](screenshots/before.png)
+![Before Generating](assets/screenshots/before.png)
 
 ### 🔹 After Generating QR Code:
-![After Generating](screenshots/after.png)
+![After Generating](assets/screenshots/after.png)
 
 ## 🚀 Live Demo
-👉 **[View Live Project](#)** 
+👉 **[View Live Project](qrmagic-generator.netlify.app)** 
 
 ---
 
