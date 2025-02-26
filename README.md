@@ -3,6 +3,13 @@
 A simple and interactive **QR Code Generator** built with **HTML, CSS, jQuery**, and the [GoQR API](https://goqr.me/api/). Enter a URL or text, and instantly generate a QR code that can be scanned using any QR code scanner.
 
 ---
+## 📸 Screenshots
+
+### 🔹 Before Generating QR Code:
+![Before Generating](screenshots/before.png)
+
+### 🔹 After Generating QR Code:
+![After Generating](screenshots/after.png)
 
 ## 🚀 Live Demo
 👉 **[View Live Project](#)** 
@@ -14,6 +21,7 @@ A simple and interactive **QR Code Generator** built with **HTML, CSS, jQuery**,
 ✅ User-friendly interface  
 ✅ Generates a QR code for any input text or URL  
 ✅ Smooth animation when displaying the QR code  
+✅ **Download the QR code as a PNG file**
 ✅ Handles empty input fields with an error animation  
 ✅ Fully responsive design  
 
@@ -39,15 +47,15 @@ A simple and interactive **QR Code Generator** built with **HTML, CSS, jQuery**,
 1️⃣ Enter a text or URL into the input field.
 2️⃣ Click the "Generate QR Code" button.
 3️⃣ Your QR code will be generated and displayed below.
-4️⃣ Scan the QR code using any mobile device! 📱
+4️⃣ Click the **"Download QR Code"** button to save it as a PNG file.  
 
-## 📸 Screenshots
 
-### 🔹 Before Generating QR Code:
-![Before Generating](screenshots/before.png)
+## 📂 Project Setup
 
-### 🔹 After Generating QR Code:
-![After Generating](screenshots/after.png)
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/Sammytee98/qr-code-generator.git
+cd qr-code-generator
 
 ❗ Known Issues & Fixes
 1. QR Code not displaying? 
