@@ -12,7 +12,7 @@ A simple and interactive **QR Code Generator** built with **HTML, CSS, jQuery**,
 ![After Generating](assets/screenshots/after.png)
 
 ## 🚀 Live Demo
-👉 **[View Live Project](qrmagic-generator.netlify.app)** 
+👉 **[View Live Project](https://qrmagic-generator.netlify.app)** 
 
 ---
 
